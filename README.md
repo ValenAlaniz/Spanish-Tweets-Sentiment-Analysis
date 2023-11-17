@@ -4,7 +4,7 @@ This repository contains the Jupyter Notebook for the second lab assignment in t
 
 Key aspects of the lab:
 
-- Experimentation with text representation techniques.
-- Implementation of classification algorithms for sentiment analysis.
+- Experimentation with text representation techniques (WE, BoW and TFIDF).
+- Implementation of classification algorithms for sentiment analysis (SVM and MLP).
 - Analysis and discussion based on results from the TASS 2020 sentiment analysis dataset.
 - The notebook includes comprehensive code, comments, and answers to specific questions outlined at the end of the assignment.
